@@ -239,7 +239,7 @@
 blockquote::before {
     content: "\201C";
     /* style the quote */
-    color: green;
+    color: rgb(230, 155, 155);
     font-size: 3em;
     position: relative;
     top: 20px;
